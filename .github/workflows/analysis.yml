@@ -4,7 +4,7 @@ on:
   # 定时触发
   schedule:
     # 分 时 日 月 周 (UTC时间)
-    - cron: '0 13 * * *'
+    - cron: '0 14 * * *'
 
   # 保留手动触发按钮，方便调试
   workflow_dispatch:
