@@ -21,8 +21,12 @@ rolling_type: expanding
 
 # 股票列表配置
 stock_list:
-  - SH601699
-  - SH601318
+  - SZ300735#光弘科技
+  - BJ920748#路桥信息
+  - SH688316#青云科技
+  - SZ000977#浪潮信息
+  - SH600316#洪都航空
+  - SZ000520#凤凰航运
 
 # 预测日期区间配置 (替代 test segment)
 predict_dates:
