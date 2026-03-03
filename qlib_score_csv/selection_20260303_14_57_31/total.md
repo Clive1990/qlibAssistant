@@ -1,0 +1,2 @@
+ {'predict_dates': [{'start': '2026-03-03', 'end': '2026-03-03'}], 'provider_uri': '~/.qlib/qlib_data/cn_data/', 'uri_folder': '~/.qlibAssistant/mlruns/', 'analysis_folder': '~/.qlibAssistant/analysis/', 'pfx_name': 'p', 'sfx_name': 's', 'model_name': 'Linear', 'dataset_name': 'Alpha360', 'stock_pool': 'csi300', 'step': 60, 'rolling_type': 'expanding', 'stock_list': ['SZ300735#光弘科技', 'BJ920748#路桥信息', 'SH688316#青云科技', 'SZ000977#浪潮信息', 'SH600316#洪都航空', 'SZ000520#凤凰航运'], 'model_filter': ['Alpha158.*csi300.*(sliding|expanding)'], 'rec_filter': None}
+
